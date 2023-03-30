@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Doing homework",
+      "day": "Monday at 2pm",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Make dinner",
+      "day": "Monday at 6pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Reading book",
+      "day": "Friday at 8am",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Visit museum",
+      "day": "Saturday at 3pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
